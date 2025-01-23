@@ -13,7 +13,7 @@ export function Navbar() {
           <Link href="/login">
             <Button variant="outline">Login</Button>
           </Link>
-          <Link href="/register">
+          <Link href="http://localhost:3000/">
             <Button>Register</Button>
           </Link>
         </div>
